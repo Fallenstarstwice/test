@@ -1,2 +1,2 @@
-print(hello)
-print(good bye)
+print("hello")
+print("good bye")
